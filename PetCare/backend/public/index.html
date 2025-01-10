@@ -1,0 +1,25 @@
+<script>
+    window.onload = function() {
+        // Log the full URL to check if it's correct
+        console.log("Full URL:", window.location.href);
+
+        // Extract the oobCode from the query string
+        var resetToken = new URLSearchParams(window.location.search).get('oobCode');
+        console.log("Extracted oobCode:", resetToken); // Debugging: Log the oobCode
+
+        if (resetToken) {
+            // Build the Expo deep link using backticks for the template literal
+            var expoLink = `exp://10.91.144.154:8081/--/reset-password?oobCode=${resetToken}`;
+            console.log("Redirecting to:", expoLink); // Debugging: Log the deep link URL
+
+            // Redirect to the Expo app deep link
+            window.location.href = expoLink;
+        } else {
+            alert('No reset token found. Please try again.');
+        }
+    }
+</script>
+
+
+
+

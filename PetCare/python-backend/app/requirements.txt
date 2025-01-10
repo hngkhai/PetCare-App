@@ -1,0 +1,9 @@
+langchain-cli
+langchain-community
+langchain_google_genai
+tavily-python
+dotenv
+fastapi
+langchain_community
+pypdf
+uvicorn
