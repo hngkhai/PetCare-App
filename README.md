@@ -1,4 +1,5 @@
-# Nanyang Technological University Software Engineering Course Project
+# Software Engineering Course Group Project
+# at Nanyang Technological University 
 
 # Chatbot Module for PetCare App
 ## developed by Hng Cherng Khai
