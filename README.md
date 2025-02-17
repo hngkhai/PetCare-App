@@ -1,4 +1,4 @@
-# 2006-SDAD-10
+# Nanyang Technological University Software Engineering Course Project
 
 # Chatbot Module for PetCare App
 ## developed by Hng Cherng Khai
@@ -6,6 +6,16 @@
 This repository contains the chatbot module developed for the PetCare App—a group project where my primary responsibility was implementing the chatbot functionalities. The module is designed to assist users with app navigation and answer pet care-related queries through dynamic API integrations.
 
 ---
+## Demo
+
+A full demo video of the application is available on YouTube.
+
+Here's the youtube link: (https://www.youtube.com/watch?v=-q9BEjN1NRE)
+
+**Note:** My features demo starts at the **8:10** timestamp in the video.
+
+---
+
 ## Overview
 
 The chatbot module comprises two core components:
@@ -56,13 +66,4 @@ The chatbot module comprises two core components:
 
 ---
 
-## Demo
 
-A full demo video of the application is available on YouTube.
-
-Here's the youtube link: (https://www.youtube.com/watch?v=-q9BEjN1NRE)
-
-**Note:** My features demo starts at the **8:10** timestamp in the video.
-
-
----
