@@ -1,6 +1,5 @@
-# NTU Software Engineering Project
-# Chatbot Module for PetCare App
-## developed by Hng Cherng Khai
+# NTU Software Engineering Project: Chatbot Module for PetCare App
+## Developed by Hng Cherng Khai
 
 This repository contains the chatbot module developed for the PetCare App—a group project where my primary responsibility was implementing the chatbot functionalities. The module is designed to assist users with app navigation and answer pet care-related queries through dynamic API integrations.
 
